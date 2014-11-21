@@ -1,0 +1,7 @@
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\obj\Debug\ProxyPatternExample.csprojResolveAssemblyReference.cache
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\bin\Debug\ProxyPatternExample.dll
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\bin\Debug\ProxyPatternExample.pdb
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\bin\Debug\nunit.framework.dll
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\bin\Debug\nunit.framework.xml
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\obj\Debug\ProxyPatternExample.dll
+c:\users\stevenv.agrista\documents\visual studio 2012\Projects\ProxyPatternExample\ProxyPatternExample\obj\Debug\ProxyPatternExample.pdb
